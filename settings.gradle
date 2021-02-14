@@ -1,0 +1,3 @@
+include ':panchangdate'
+include ':app'
+rootProject.name = "PanchangDate"
