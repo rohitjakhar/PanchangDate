@@ -1,6 +1,6 @@
 package com.rohitjakhar.panchangdate
 
-object Utils {
+internal object Utils {
     val month = listOf(
         "January", "February", "March", "April", "May", "June",
         "July", "August", "September", "October", "November", "December"
@@ -39,7 +39,7 @@ object Utils {
         "पुनर्वशु", "पुण्य", "अश्लेषा", "मघा", "पूर्वाफाल्गुनी", "उत्तरा फाल्गुनी",
         "हस्त", "चित्रा", "स्वाती", "विशाखा", "अनुराधा", "ज्येष्ठा", "मूल",
         "पूर्वाषाढ़ा", "उत्तराषाढ़ा", "श्रवणा", "घनिष्ठा", "शतभिषा",
-        "पूर्वा भाद्र पद", "उत्तराभाद्रपद", "Revathi"
+        "पूर्वा भाद्र पद", "उत्तराभाद्रपद", "रेवती"
     )
 
 
